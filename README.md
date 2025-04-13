@@ -81,6 +81,7 @@ Decision support for medical professionals, reducing cognitive load.
 🔹 Deployment in clinical environments to assist radiologists.
 
 DIAGNOVISION PHASES
+
 1️⃣ Data Preparation
 
 Chest X-ray preprocessing: Resized to 224x224, normalized pixel values. Text preprocessing: Tokenized and structured radiology reports for NLP classification.
