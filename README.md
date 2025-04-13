@@ -7,23 +7,36 @@
 Delays in diagnoses and appropriate treatments due to a lack of technological implementation and continuous training to streamline the workflow of radiologists and physicians when analyzing medical images such as X-rays.
 
 Challenges in radiology workflow
+
 1️⃣ Image Quality Issues
 
 Artifacts, patient movement, or foreign objects that hinder interpretation. Low-resolution images, making it difficult to identify crucial details. Overexposed or underexposed images that obscure or distort anatomical structures.
 
 2️⃣ Workload Overload
 
-High volume of studies to review, leading to fatigue and diagnostic errors. Limited time per case, potentially compromising analysis quality. 3️⃣ Interpretation Variability
+High volume of studies to review, leading to fatigue and diagnostic errors. Limited time per case, potentially compromising analysis quality. 
 
-Subjectivity: Different radiologists may interpret the same image differently. Ambiguous Findings: Lesions or abnormalities that are not clearly benign or malignant, requiring additional tests and time. 4️⃣ Case Complexity
+3️⃣ Interpretation Variability
 
-Rare pathologies requiring specialized expertise. Complex patient anatomy that makes interpretation more challenging. 5️⃣ Technical Limitations
+Subjectivity: Different radiologists may interpret the same image differently. Ambiguous Findings: Lesions or abnormalities that are not clearly benign or malignant, requiring additional tests and time. 
 
-Visualization tools lacking advanced features. Difficulty accessing prior studies due to non-integrated systems. 6️⃣ Communication Gaps
+4️⃣ Case Complexity
 
-Incomplete reports and challenges in discussing complex cases with other specialists. 7️⃣ Human Errors
+Rare pathologies requiring specialized expertise. Complex patient anatomy that makes interpretation more challenging. 
 
-Mistakes due to distraction and cognitive bias (e.g., confirmation bias in diagnosis). Lower-quality images in patients with a high body mass index (BMI). 8️⃣ Regulations and Documentation
+5️⃣ Technical Limitations
+
+Visualization tools lacking advanced features. Difficulty accessing prior studies due to non-integrated systems. 
+
+6️⃣ Communication Gaps
+
+Incomplete reports and challenges in discussing complex cases with other specialists. 
+
+7️⃣ Human Errors
+
+Mistakes due to distraction and cognitive bias (e.g., confirmation bias in diagnosis). Lower-quality images in patients with a high body mass index (BMI). 
+
+8️⃣ Regulations and Documentation
 
 Time-consuming need to document and justify every finding. Compliance with radiation protection and ethical protocols. These pain points highlight the need for AI-powered solutions like DiagnoVision to enhance efficiency, reduce errors, and support radiologists in their diagnostic workflow.
 
