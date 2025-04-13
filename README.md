@@ -38,17 +38,21 @@ DEMO: ⏯️📽️ https://drive.google.com/file/d/1tu_tkyFKcYj-S9EgVjA2kqWz4Jj
 🛠 Technology Stack
 Vision Transformer (ViT): google/vit-base-patch16-224 for automated chest X-ray analysis adjusted for 12 features (pathologies)
 
-image
+![image](https://github.com/user-attachments/assets/99403aee-a77e-4185-8fc4-eb2e9dc1fd9a)
+
 
 RandomForestClassifier: Applied to enhance text diagnostic accuracy by classifying pathologies in text with probabilities.
 
-image
+![image](https://github.com/user-attachments/assets/8bc6da3a-2de2-4127-8090-a94496c1c0c0)
 
-image
+
+![image](https://github.com/user-attachments/assets/3bc6b570-7a85-420a-b954-b5cf10a18f50)
+
 
 LLM for Report Generation: FreedomIntelligence/HuatuoGPT-o1-7B for structured, coherent radiology reports.
 
-image
+![image](https://github.com/user-attachments/assets/db253813-9bf2-4107-b8c2-bdac684f0a5e)
+
 
 📊 Data Sources
 
