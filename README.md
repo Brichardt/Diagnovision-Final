@@ -1,5 +1,7 @@
  DiagnoVision: Multimodal Assistant for Chest X-Ray Analysis & Report Generation
-image
+
+![image](https://github.com/user-attachments/assets/002a0f2c-e5ba-474a-abd2-8d4eef029574)
+
 
 ⁉️ Pain Point
 Delays in diagnoses and appropriate treatments due to a lack of technological implementation and continuous training to streamline the workflow of radiologists and physicians when analyzing medical images such as X-rays.
